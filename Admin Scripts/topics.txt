@@ -1,0 +1,8 @@
+01 Linear Regression
+02 Classification I,II
+03 Tree-based methods + Ensemble learning
+04 Unsupervised Learning
+05 Neural Networks I
+06 NN II
+07 NLP + Transformers I
+08 Computer Vision I + Image Models I

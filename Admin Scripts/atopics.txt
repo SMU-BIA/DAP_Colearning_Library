@@ -1,0 +1,15 @@
+01a Regularization
+02a Classification III (SVMs in depth)
+06a Time Series Analysis 
+06b Recommender Systems
+07a Transformers II (training techniques)
+07b Transformers III (alignment)
+07c AI safety with Language Models
+08a Image Models II
+08b Multi-modality
+08c AI safety with multimodality
+09 Reinforcement Learning
+09a RLHF and algorithmic learning
+10 NNs for quantum computing
+
+
